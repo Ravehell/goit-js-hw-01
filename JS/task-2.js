@@ -3,7 +3,7 @@ function getShippingMessage(country, price, deliveryFee) {
 }
 
 
-// Exercise 2
+console.log("Exercise 2")
 
 console.log(getShippingMessage("Australia", 120, 50));
 console.log(getShippingMessage("Germany", 80, 20));
